@@ -1,6 +1,4 @@
-from bs4 import BeautifulSoup
-# import requests
-# import shutil
+import bs4
 import time
 import os
 import json
