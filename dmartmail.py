@@ -46,7 +46,6 @@ def dmart():
     #driver = webdriver.Chrome(executable_path=chromedriver, chrome_options=chrome_options)
     
     #for cloud
-    options.add_argument('window-size=1200x600') # optional
     chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
     driver = webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"), chrome_options=chrome_options)
 
