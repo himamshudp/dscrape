@@ -7,6 +7,5 @@ schedule==0.6.0
 selenium==3.141.0
 six==1.15.0
 soupsieve==2.0.1
-urllib3==1.26.2
 xlrd==1.2.0
 requests==2.24.0
