@@ -260,23 +260,7 @@ schedule.every(2).minutes.do(dmart)
 while True:
     schedule.run_pending()
     time.sleep(1) # wait one minute
-    
-
-
-# In[1]:
-
-
-conda list
-
-
-# In[2]:
-
-
-conda list
-
-
-# In[ ]:
-
+ 
 
 
 
