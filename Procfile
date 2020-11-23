@@ -1,1 +1,1 @@
-worker: python app1.py
+worker: python dmartmail.py
